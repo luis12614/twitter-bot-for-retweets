@@ -8,7 +8,7 @@ now = datetime.datetime.now()
 
 print('This is a twitter bot')
 
-CONSUMER_KEY = environ['1YkC141oKz5DgGYJoCjnikemv']
+CONSUMER_KEY = environ['']
 CONSUMER_SECRET = environ['xx2A9SAuvuJ38yBjcJB5IcxiSjWkFOm9PdnjJ95TcbkAZXEVKy']
 ACCESS_KEY = environ['2615856414-nGxvEhvwQNmbUNxQJqIcEc6fjtAPVdpYzHHH5wi']
 ACCESS_SECRET = environ['vVjSTxrVnMxtCT5AsnfGyv4iyUHQHsrgWGr5W35e3Fly1']
