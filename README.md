@@ -1,1 +1,1 @@
-# twitter-bot-for-retweets
+# twitter-bot-for-retweeting
